@@ -1,4 +1,2 @@
-print("hello" + " world"
-)
-x = 1 + \
-1 + 1
+print("hello" + " world")
+x = 1 + 1 + 1
