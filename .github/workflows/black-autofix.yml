@@ -1,5 +1,7 @@
 name: Black Auto-Fix
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
 
 permissions:
   contents: write         # required for committing a branch
